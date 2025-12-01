@@ -37,45 +37,4 @@ Here are some ideas to get you started:
 
 4. 현재까지 진행한 GitHub 활동 내역
 
-아래 중 최소 2개 이상 포함:
-
-- GitHub contribution 그래프
-<img width="565" height="289" alt="image" src="https://github.com/user-attachments/assets/7d69a378-92d1-4a42-a637-dddc6c46cad4" />
-<img width="961" height="260" alt="image" src="https://github.com/user-attachments/assets/9224ec03-620a-469c-9dc5-bab6352b41ba" />
-
-- 최근 기여 내역(Commits, Pull Requests, Issues 등)
-<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/f8a98edf-852c-491b-a5c1-87dc9eb2e4ba" />
-
-- 참여 중인 오픈소스 프로젝트
-<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/70ebb339-28dc-4b68-b42b-95e59fd1ae17" />
-* 추가 점수 요소(선택사항)
-
-아래 요소는 선택이며, 제출하면 가산점이 부여됩니다.
-
-- MarkDown 꾸미기(뱃지, 테이블, 이미지, GIF 등)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-
--기술 스택 아이콘(Skill Badge) 정리
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-- 본인이 작성한 기술 블로그 또는 노션 링크
-
-- 간단한 기술 로드맵(앞으로 배우고 싶은 기술)
-기본적인 HTML/CSS/JavaScript를 더 익히고 간단한 웹 페이지를 여러 개 만들어볼 계획입니다
-Git은 협업할 때 필요한 브랜치 전략이나 커밋 메시지 작성 같은 부분을 좀 더 제대로 배워보고 싶습니다.
-Python 데이터 분석(Pandas/NumPy)
-- GitHub Actions Badge 추가
-[![CI](https://github.com/keemyohwan/keemyohwan/actions/workflows/blank.yml/badge.svg)](https://github.com/keemyohwan/keemyohwan/actions/workflows/blank.yml)
-
-- 오픈소스 프로젝트 기여 내역 상세 정리
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+아
