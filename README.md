@@ -60,3 +60,8 @@ Git은 협업할 때 필요한 브랜치 전략이나 커밋 메시지 작성 �
 Python 데이터 분석(Pandas/NumPy)
 - GitHub Actions Badge 추가
 [![CI](https://github.com/keemyohwan/keemyohwan/actions/workflows/blank.yml/badge.svg)](https://github.com/keemyohwan/keemyohwan/actions/workflows/blank.yml)
+- 오픈소스 프로젝트 기여 내역 상세 정리
+- 공공데이터 포털"("https://www.data.go.kr/")"에서 csv파일형태의 공공데이터 다운로드후 깃허브에 커밋
+<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/d1cbb7c2-8a12-44a7-83a4-889bf0fc3739" />
+<img width="1918" height="873" alt="image" src="https://github.com/user-attachments/assets/830f6839-95f7-44a3-a81f-f09aa684c759" />
+
