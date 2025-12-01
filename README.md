@@ -60,8 +60,17 @@ Git은 협업할 때 필요한 브랜치 전략이나 커밋 메시지 작성 �
 Python 데이터 분석(Pandas/NumPy)
 - GitHub Actions Badge 추가
 [![CI](https://github.com/keemyohwan/keemyohwan/actions/workflows/blank.yml/badge.svg)](https://github.com/keemyohwan/keemyohwan/actions/workflows/blank.yml)
+
 - 오픈소스 프로젝트 기여 내역 상세 정리
-- 공공데이터 포털"("https://www.data.go.kr/")"에서 csv파일형태의 공공데이터 다운로드후 깃허브에 커밋
+공공데이터 포털"("https://www.data.go.kr/")"에서 csv파일형태의 공공데이터 다운로드후 깃허브에 커밋
+공공데이터 파일다운로드 예시
 <img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/d1cbb7c2-8a12-44a7-83a4-889bf0fc3739" />
+커밋예시
 <img width="1918" height="873" alt="image" src="https://github.com/user-attachments/assets/830f6839-95f7-44a3-a81f-f09aa684c759" />
+<img width="1919" height="854" alt="image" src="https://github.com/user-attachments/assets/15a72fd8-889b-47fa-961c-ceffc073c92a" />
+현재까지 42개지역 인구데이터 커밋완료
+팀원에게 받은 웹코드 커밋
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/72ad452a-4783-447e-bb2d-7fde5d5beaf7" />
+수업내 타팀 저장소 PR및 커밋기여
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/be1d4cbb-03ad-431e-bae0-6aabbf32f96b" />
 
