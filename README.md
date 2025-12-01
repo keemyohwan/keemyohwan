@@ -1,10 +1,19 @@
 ## Hi there 👋
+![typing](https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif)
 
 - 🔭 1. 자기소개(About Me)
 
 - 이름: 김요환(닉네임:keemyohwan)
 
-- 사용 가능한 기술 스택: Python,C,C++,CSS/HTML/JAVASCRIPT
+- 사용 가능한 기술 스택: 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+
 
 - 관심 있는 개발 분야: 웹,시스템/임베디드 개발
 
@@ -48,15 +57,6 @@
 * 추가 점수 요소(선택사항)
 
 아래 요소는 선택이며, 제출하면 가산점이 부여됩니다.
-
-- MarkDown 꾸미기(뱃지, 테이블, 이미지, GIF 등)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-
--기술 스택 아이콘(Skill Badge) 정리
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 
 - 본인이 작성한 기술 블로그 또는 노션 링크
 
