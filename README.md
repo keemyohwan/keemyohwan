@@ -1,5 +1,5 @@
 ## Hi there 👋
-![typing](https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
 - 🔭 1. 자기소개(About Me)
 
